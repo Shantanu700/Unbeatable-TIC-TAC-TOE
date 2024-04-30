@@ -14,12 +14,11 @@ A classic TIC TAC TOE game implemented in Python using the Pygame library.
 
 ## Description
 
-The Snake Game is a classic arcade game where the player controls a snake that moves around the screen and tries to eat food items to grow longer. The game ends if the snake collides with itself or the screen borders. The goal is to achieve the highest score by eating as much food as possible.
-
+Tic Tac Toe in Python is a simple yet classic game where two players take turns marking spaces in a 3x3 grid with their respective symbols, typically "X" and "O", with the goal of forming a horizontal, vertical, or diagonal line of their symbols. The game ends when one player achieves this goal or when the grid is fully filled without a winner, resulting in a draw.
 ## Features
 
 - Simple and intuitive gameplay.
-- Increasing difficulty as the snake grows longer.
+- AI bot is simply unbeatable
 - Score tracking.
 - Game over screen with the option to restart.
 
