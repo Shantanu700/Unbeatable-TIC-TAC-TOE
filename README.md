@@ -27,7 +27,7 @@ Tic Tac Toe in Python is a simple yet classic game where two players take turns 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Shantanu700/Snake-game
+   git clone https://github.com/Shantanu700/Unbeatable-TIC-TAC-TOE.git
 2. Install the required dependencies
 
    ```bash
