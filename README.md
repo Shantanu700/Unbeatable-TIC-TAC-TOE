@@ -52,4 +52,4 @@ Make sure you have Python and Pygame installed on your system.
 + Press Esc to exit the game.
 
 ## Screenshots
-<img src="https://github.com/Shantanu700/Snake-game/blob/main/Screenshots/Screenshot%202024-03-01%20154749.png" alt="Example Image" style="max-hieght:10px;" width="400px" padding="20px"><img src="https://github.com/Shantanu700/Snake-game/blob/main/Screenshots/Screenshot%202024-03-01%20154813.png" alt="Example Image" style="max-hieght:10px;" width="400px" padding="20px"> <img src="https://github.com/Shantanu700/Snake-game/blob/main/Screenshots/Screenshot%202024-03-01%20154834.png" alt="Example Image" style="max-hieght:10px;" width="400px" padding="20px">
+<img src="ScreenShots/Screenshot 2024-04-30 131730.png" alt="Example Image" style="max-hieght:10px;" width="400px" padding="20px"><img src="https://github.com/Shantanu700/Snake-game/blob/main/Screenshots/Screenshot%202024-03-01%20154813.png" alt="Example Image" style="max-hieght:10px;" width="400px" padding="20px"> <img src="https://github.com/Shantanu700/Snake-game/blob/main/Screenshots/Screenshot%202024-03-01%20154834.png" alt="Example Image" style="max-hieght:10px;" width="400px" padding="20px">
